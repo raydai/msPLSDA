@@ -12,9 +12,10 @@ To demonstrate the effectiveness of **msPLSDA**, we conducted a comprehensive si
 
 Furthermore, we applied **msPLSDA** to multi-omics data from the Louisiana Osteoporosis Study. Through this analysis, we identified genomic features that are significantly enriched in bone-related biological pathways. These findings underscore the effectiveness of **msPLSDA** in identifying critical features for downstream analyses, including the identification of disease biomarkers or therapeutic targets.
 
-<center>
-    ![Workflow](./figure/Fig1_Workflow.png)
-</center>
+
+![Workflow](./figure/Fig1_Workflow.png)
+
+
 
 ## Getting Started
 To get started with **msPLSDA**, please refer to the DataSimulationStudy_msPLSDA.R for the usage of the **msPLSDA**.
