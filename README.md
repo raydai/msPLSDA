@@ -15,7 +15,7 @@ Furthermore, we applied **msPLSDA** to multi-omics data from the Louisiana Osteo
 
 ![Workflow](./figure/Fig1_Workflow.png)
 
-
+Contact: kmsh410 " at" hotmail "dot" com.
 
 ## Getting Started
 To get started with **msPLSDA**, please refer to the DataSimulationStudy_msPLSDA.R for the usage of the **msPLSDA**.
